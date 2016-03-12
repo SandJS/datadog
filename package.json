@@ -1,6 +1,6 @@
 {
   "name": "sand-datadog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sand Grain for DataDogs",
   "main": "lib/index.js",
   "scripts": {
