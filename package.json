@@ -1,0 +1,28 @@
+{
+  "name": "sand-datadog",
+  "version": "1.0.0",
+  "description": "Sand Grain for DataDogs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandJS/datadog.git"
+  },
+  "keywords": [
+    "datadog",
+    "sand"
+  ],
+  "author": "Kevin Smithson <ksmithson@sazze.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandJS/datadog/issues"
+  },
+  "homepage": "https://github.com/SandJS/datadog#readme",
+  "dependencies": {
+    "node-dogstatsd": "0.0.6",
+    "on-finished": "^2.3.0",
+    "sand-grain": "^1.1.1"
+  }
+}
